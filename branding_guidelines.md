@@ -16,18 +16,18 @@
 
 ### Dashboard Theme
 
-Background
+**Background**
 
-#FFFFFF (White)
-#E6E9EF (Light Gray for cards or panels)
+* General: `#FFFFFF` (White)
+* Cards or panels: `#E6E9EF` (Light Gray)
 
-Text
+**Text**
 
-Headings: #0D1B2A
-Body: #4A5568
+* Headings: `#0D1B2A` (Deep Navy)
+* Body: `#4A5568` (Slate Gray)
 
-Charts
+**Charts**
 
-Primary series: #1E6BD6
-Secondary series: #6FAEF7
-Highlight or KPI: #00B4B4
+* Primary series: `#1E6BD6` (Primary Blue)
+* Secondary series: `#6FAEF7` (Light Blue)
+* Highlight or KPI: `#00B4B4` (Teal)
