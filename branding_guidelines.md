@@ -1,9 +1,7 @@
 # Corporate Brand
 
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/b8f62eee-105d-4240-ae24-0b77f9e18235" />
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1n0sqkfpC2wFqK9n-E_G0X5rhdlomzfCs/view?usp=sharing" alt="Logo Description" width="400">
-</p>
 
 | Color        | HEX         | Suggested Use                           |
 | ------------ | ----------- | --------------------------------------- |
@@ -14,7 +12,7 @@
 | Light Gray   | **#E6E9EF** | Dashboard backgrounds, cards, dividers  |
 | Slate Gray   | **#4A5568** | Body text, axes, labels, secondary text |
 
-### Dashboard Theme
+## Dashboard Theme
 
 **Background**
 
@@ -31,3 +29,11 @@
 * Primary series: `#1E6BD6` (Primary Blue)
 * Secondary series: `#6FAEF7` (Light Blue)
 * Highlight or KPI: `#00B4B4` (Teal)
+
+
+## Tableau application
+
+Created a custom palette with the superstore branding.
+
+<img width="585" height="523" alt="image" src="https://github.com/user-attachments/assets/a85e236b-12eb-4b53-a475-fd67a52e0fc2" />
+
