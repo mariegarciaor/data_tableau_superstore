@@ -17,7 +17,6 @@ Marketing: Growth opportunities through advertising.
 
 
 Executive Leadership (CEO)
-
 Goal: Understand overall business performance and where growth opportunities exist.
 
 What are our current sales, profit, orders, and profit margin?
@@ -28,27 +27,15 @@ Which states are driving growth, and which require strategic attention?
 Which states represent the greatest opportunities for future investment?
 
 
-Regional Managers
-Goal: Improve operational performance within their territory.
+Sales Regional Managers
+Goal: Improve performance and grow valuable customer relationships.
 
 How is my region performing in terms of sales, profit, orders, and return rate?
-Which states within my region are exceeding or missing performance expectations?
-Which product subcategories perform best and worst within my region?
-Which products generate the highest profits and the biggest losses in my region?
-Which customers contribute the most profit in my region?
+Which states within my region contribute the most and least profit?
+Which customer segments generate the highest sales and profit in my region?
+Who are the top customers in my region?
+Which product subcategories perform best and worst in my region?
 How has my region's performance changed over time?
-Which products have the highest return rates in my region?
-
-
-Sales & Customer Success
-Goal: Grow valuable customer relationships.
-
-Which customer segments generate the highest sales and profit?
-Which customer segments have the highest average order value?
-Who are our most valuable customers based on sales and profit?
-Which customers have the highest return rates?
-Which customer segments experience the highest return rates?
-Which customers should be prioritized for retention and account management?
 
 Merchandising / Product Management
 Goal: Optimize the product portfolio and Reduce returns.
@@ -59,6 +46,17 @@ Which products have the highest return rates?
 Which products combine low profitability with high return rates?
 Which products should be reviewed for pricing, promotion, or discontinuation?
 Which product categories perform differently across regions?
+
+Operations & Logistics
+Focus: Order fulfillment and operational efficiency.
+
+Which shipping modes are used most frequently?
+Which shipping modes are associated with the highest return rates?
+How do sales, profit, and return rates vary by ship mode?
+Which regions experience the highest return rates?
+Which states or shipping methods require operational attention?
+How do order volumes vary by shipping mode over time?
+
 
 Marketing
 Goal: Maximize advertising budget and identify growth opportunities.
