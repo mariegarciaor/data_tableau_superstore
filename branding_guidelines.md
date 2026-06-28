@@ -37,3 +37,4 @@ Created a custom palette with the superstore branding.
 
 <img width="585" height="523" alt="image" src="https://github.com/user-attachments/assets/a85e236b-12eb-4b53-a475-fd67a52e0fc2" />
 
+<img width="660" height="433" alt="image" src="https://github.com/user-attachments/assets/7348b3bc-f94d-4a58-8c70-47815e1e3a2b" />
