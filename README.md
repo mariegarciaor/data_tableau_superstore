@@ -16,7 +16,7 @@ Marketing: Growth opportunities through advertising.
 
 
 
-Executive Leadership (CEO)
+## Executive Leadership (CEO)
 Goal: Understand overall business performance and where growth opportunities exist.
 
 What are our current sales, profit, orders, and profit margin?
@@ -27,7 +27,7 @@ Which states are driving growth, and which require strategic attention?
 Which states represent the greatest opportunities for future investment?
 
 
-Sales Regional Managers
+## Sales Regional Managers
 Goal: Improve performance and grow valuable customer relationships.
 
 How is my region performing in terms of sales, profit, orders, and return rate?
@@ -37,7 +37,7 @@ Who are the top customers in my region?
 Which product subcategories perform best and worst in my region?
 How has my region's performance changed over time?
 
-Merchandising / Product Management
+## Merchandising / Product Management
 Goal: Optimize the product portfolio and Reduce returns.
 
 Which product categories and subcategories generate the highest and lowest profit?
@@ -47,7 +47,7 @@ Which products combine low profitability with high return rates?
 Which products should be reviewed for pricing, promotion, or discontinuation?
 Which product categories perform differently across regions?
 
-Operations & Logistics
+## Operations & Logistics
 Focus: Order fulfillment and operational efficiency.
 
 Which shipping modes are used most frequently?
@@ -58,7 +58,7 @@ Which states or shipping methods require operational attention?
 How do order volumes vary by shipping mode over time?
 
 
-Marketing
+## Marketing
 Goal: Maximize advertising budget and identify growth opportunities.
 
 Which states and months offer the highest potential return on advertising investment?
