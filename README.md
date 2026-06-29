@@ -1,12 +1,9 @@
-<img width="1399" height="899" alt="Executive Leadership" src="https://github.com/user-attachments/assets/8e00c584-148f-41f6-b027-2107c36dc1bb" />
 
 # 📊 Superstore Sales Analytics
 
 An end-to-end data analytics project exploring retail sales, profitability, customer behavior, and operational performance using the **Sample Superstore** dataset.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8e00c584-148f-41f6-b027-2107c36dc1bb" alt="Executive Leadership Dashboard" width="700">
-</p>
+<img width="1399" height="899" alt="Executive Leadership" src="https://github.com/user-attachments/assets/8e00c584-148f-41f6-b027-2107c36dc1bb" />
 
 <p align="center">
   <a href="https://mariegarciaor.github.io/data_tableau_superstore/"><strong>🔗 View Live Dashboard</strong></a>
