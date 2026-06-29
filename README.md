@@ -16,10 +16,6 @@ An end-to-end data analytics project exploring retail sales, profitability, cust
 - 
 
 
-### 🚀 Next Steps
-- Build out remaining stakeholder views (Regional Managers, Sales & Customer Success, Merchandising, Marketing)
-- Add segment-level customer retention analysis
-- Layer in forecasting for top-performing states/categories
 
 ---
 
@@ -28,6 +24,13 @@ An end-to-end data analytics project exploring retail sales, profitability, cust
 ## 🎯 Goal of the Project
 
 To turn raw transactional sales data into a decision-ready dashboard that helps business leaders quickly understand **where the business is winning, where it's losing, and where to invest next**, across regions, product categories, and customer segments.
+
+---
+
+## 🛠️ How This Was Built
+- **Visualization:** Tableau Public
+- **Hosting:** GitHub Pages
+- **Data Source:** [Sample Superstore](https://community.tableau.com/s/question/0D54T00000C5e8KSAS/sample-superstore-dataset)
 
 ---
 
@@ -56,7 +59,7 @@ For this iteration, I prioritized the **Executive Leadership (CEO)** view, since
 
 ---
 
-## Metrics & KPIs
+## Building Metrics & KPIs
 - **Total Revenue** — overall sales generated
 - **Total Profit** — total dollar profit
 - **% Profit Margin** — profit as a percentage of revenue
@@ -67,10 +70,24 @@ For this iteration, I prioritized the **Executive Leadership (CEO)** view, since
 
 ---
 
-## 🛠️ How This Was Built
-- **Visualization:** Tableau Public
-- **Hosting:** GitHub Pages
-- **Data Source:** [Sample Superstore](https://community.tableau.com/s/question/0D54T00000C5e8KSAS/sample-superstore-dataset)
+## Interactivity
+
+- Parameter to switch metrics
+- Filter to customize views.
+- Actions.
+
+---
+
+## Using Coporate Brand Guidelines
+
+<img width="1402" height="1122" alt="ChatGPT Image Jun 27, 2026, 05_38_56 PM" src="https://github.com/user-attachments/assets/48721449-a732-4f17-8ed3-330cd5d3a696" />
+
+---
+
+### 🚀 Next Steps
+- Build out remaining stakeholder views (Regional Managers, Sales & Customer Success, Merchandising, Marketing)
+- Add segment-level customer retention analysis
+- Custom Security
 
 ---
 
