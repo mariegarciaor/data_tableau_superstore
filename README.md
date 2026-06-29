@@ -1,5 +1,5 @@
 
-# 📊 Superstore Sales Analytics
+# 📊 Superstore Performance Dashboard 
 
 An end-to-end data analytics project exploring retail sales, profitability, customer behavior, and operational performance using the **Sample Superstore** dataset.
 
@@ -9,9 +9,23 @@ An end-to-end data analytics project exploring retail sales, profitability, cust
   <a href="https://mariegarciaor.github.io/data_tableau_superstore/"><strong>🔗 View Live Dashboard</strong></a>
 </p>
 
+**User:** Executive Leadership
+**Goal:** Understand overall business performance and identify where growth opportunities exist.
+
+### Key takeaways:
+- 
+
+
+### 🚀 Next Steps
+- Build out remaining stakeholder views (Regional Managers, Sales & Customer Success, Merchandising, Marketing)
+- Add segment-level customer retention analysis
+- Layer in forecasting for top-performing states/categories
+
 ---
 
-## 🎯 Goal of the Analysis
+# Project Development
+
+## 🎯 Goal of the Project
 
 To turn raw transactional sales data into a decision-ready dashboard that helps business leaders quickly understand **where the business is winning, where it's losing, and where to invest next**, across regions, product categories, and customer segments.
 
@@ -32,11 +46,7 @@ For this iteration, I prioritized the **Executive Leadership (CEO)** view, since
 
 ---
 
-## 🧭 Executive Leadership Dashboard
-
-**Goal:** Understand overall business performance and identify where growth opportunities exist.
-
-### Business Questions
+## Defining Business Questions
 1. What are our current sales, profit, orders, and profit margin?
 2. How has business performance changed over time?
 3. How do sales, profit, and orders compare across regions?
@@ -54,18 +64,6 @@ For this iteration, I prioritized the **Executive Leadership (CEO)** view, since
 - **Adjusted Profit** — profit recalculated net of returns
 - **% Adjusted Profit Margin** — profit margin recalculated net of returns
 - **Regional & state-level breakdowns** — performance by geography and category
-
----
-
-**Key takeaways:**
-- 
-
----
-
-## 🚀 Next Steps
-- Build out remaining stakeholder views (Regional Managers, Sales & Customer Success, Merchandising, Marketing)
-- Add segment-level customer retention analysis
-- Layer in forecasting for top-performing states/categories
 
 ---
 
